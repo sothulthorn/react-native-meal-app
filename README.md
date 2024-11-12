@@ -6,6 +6,8 @@ When users click on a specific meal, they are taken to a detail screen that incl
 
 ## Project View
 
-| All Categories                                                                | Meal                                                                    | About the Meal                                                                 | Favorite                                                                    |
-| ----------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------ | --------------------------------------------------------------------------- |
-| <div align="center"><img src="/screenshots/categories.png" width="85%"></div> | <div align="center"><img src="/screenshots/meal.png" width="85%"></div> | <div align="center"><img src="/screenshots/meal-detail.png" width="85%"></div> | <div align="center"><img src="/screenshots/favorite.png" width="85%"></div> |
+| All Categories                                                                 | Meal                                                                        |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------------------------- |
+| <div align="center"><img src="/screenshots/categories.png" width="85%"></div>  | <div align="center"><img src="/screenshots/meal.png" width="85%"></div>     |
+| **About the Meal**                                                             | **Favorite**                                                                |
+| <div align="center"><img src="/screenshots/meal-detail.png" width="85%"></div> | <div align="center"><img src="/screenshots/favorite.png" width="85%"></div> |
